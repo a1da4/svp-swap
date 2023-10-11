@@ -1,0 +1,3 @@
+[submodule "src/svpgauss"]
+	path = src/svpgauss
+	url = https://github.com/a1da4/svp-gauss.git
